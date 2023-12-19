@@ -1,4 +1,4 @@
-Let Every Conversation Flow — Without Compromise.
+
 
 Built for organizations that need more control over their communications; it enables collaboration between colleagues, partners, customers, communities, and even platforms without compromises on data ownership, customizations, or integrations.
 
